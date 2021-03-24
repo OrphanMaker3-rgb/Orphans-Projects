@@ -3,10 +3,12 @@ import time
 # Global Variables
 note1 = ("")
 note2 = ("")
+
 # Y/N's
 yn1 = 1
 viewN1 = 0
 viewN2 = 1
+
 # Start page
 print("Welcome to notepad")
 print("Tip: Remember that you can make up to two note's")
@@ -30,7 +32,6 @@ if yn1 == 1:
         print(note1)
     if viewN2 >0:
         print(note2)
-# If No Note
+# If No Want to Take Note
 if yn1 >1:
     print("Ok, Goodbye")
-    
