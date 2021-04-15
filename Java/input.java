@@ -1,3 +1,12 @@
+// READ THIS
+// if you want to run go to https://www.onlinegdb.com/    paste in editor and click run
+
+
+
+
+
+
+
 package Java;
 import java.io.*;
 
